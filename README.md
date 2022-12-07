@@ -1,2 +1,3 @@
 # PokerHands-using-community-cardset
 Pokerhands game between two players using community card set
+IntelliJ was made to create a deck of cards (total 52). The IntelliJ then takes out 5 cards known as community cardset. After this, IntelliJ distributes two cards to each player 1 and player 2. Following this it, tests all the possible combinations of the cards in the hands a=of player 1 and 2 separately with the community card set. It figures out the best possible combination for each a=hands separately. And finally, it figures out whether player 1 or 2 wins based on the which of them has hand more worthy than the other.
